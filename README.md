@@ -1,6 +1,6 @@
 # Pomodoro Timer App
 
-<img src="pomodoroTimeApp.png">
+<img src="pomodoroTimerApp.png">
 
 ## Overview
 This Python program implements a Pomodoro Timer, a time management technique that breaks work into intervals, traditionally 25 minutes in length, separated by short breaks. The program has a graphical user interface (GUI) built using the Tkinter library.
